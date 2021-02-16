@@ -1,0 +1,12 @@
+#chat_image{
+width:500px;
+height:750px;
+}
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+body
+{
+background-image: linear-gradient(to right top, #00f3e7,#00f3e7,#00f3e7,#00f3e7,#00f3e7);
+}
